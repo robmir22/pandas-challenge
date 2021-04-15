@@ -17,7 +17,7 @@ To achieve this we recommend to increase the number of unique items that: (1) ca
 A targeted campaign to bring more women players can be funded with the extra revenue coming from this ($47 per every 100 women users).
 
 ### 77% of players are between 15 and 29 years old (45% in the 20-24 range).
-
+Players in the range of 20-24 years spend in avg $4.32. Age groups with bigger spents are little in size: kids <10 years spend $4.54 and adults between 35 and 39 spend $4.76. Creating targeted campaigns to attract new players in those age groups could be funded wth the additional spend per player expected from them.
 
 ### Top selling items and most profitable items are almost the same and have an average price above $4. 
 Most profitable items are the ones with more purchases and higher prices (which is natural since avg price and max price are fairly close).
