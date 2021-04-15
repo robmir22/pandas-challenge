@@ -1,15 +1,13 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
 In this repository you will find an analysis for the **HeroesOfPymoli** pandas challenge.
-
 Please open in Jupyter notebook for better visualization.
 
 
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+* Written description of three observable trends based on the data. *
 
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 Independent gaming company. 
 Analyzing the data for their most recent fantasy game Heroes of Pymoli.
