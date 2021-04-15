@@ -8,7 +8,7 @@ In this repository you will find an analysis for the **HeroesOfPymoli** pandas c
 
 After analyzing data for an independent gaming company on their most recent fantasy game Heroes of Pymoli, we discovered the following trends on purchases:
 
-### Players perform in average 1.35 purchases, player with max number of purchases is 5. 
+### Players perform in average 1.35 purchases but player with max number of purchases is 5. 
 Increasing purchases per player to 2 can bring a +47% increase in revenue (+$1134.6).
 To achieve this we recommend to increase the number of unique items that: (1) can be worn out (drive repurchases) or (2) have a complementary item. 
 
